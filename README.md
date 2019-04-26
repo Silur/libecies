@@ -1,7 +1,7 @@
 # LibECIES
 A minimalistic curve25519 ECIES library for P2P apps
 ## Attention
-A recent research showed that OpenSSL's EC implementation is prone to fault attacks: https://eprint.iacr.org/2019/394
+A recent research showed that OpenSSL's EC implementation is prone to fault attacks: https://eprint.iacr.org/2019/400
 Untill either OpenSSL Foundation or the author addresses this issue formally it **is not advised to use this library in production**
 
 ## Installation
